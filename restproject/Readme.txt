@@ -1,4 +1,4 @@
-==Build the project
+==Build the project=
 	mvn package
 	
 ==Run the project	
